@@ -1,6 +1,6 @@
 module.exports = {
   name: "clip",
-  description: "Plays a clip sound",
+  description: "```Plays a clip sound```",
   async execute(message, args) {
     const { channel } = message.member.voice;
     const queue = message.client.queue.get(message.guild.id);
@@ -15,7 +15,7 @@ module.exports = {
       connection: null,
       songs: [],
       loop: false,
-      volume: 100,
+      volume: 60,
       playing: true
     };
 
