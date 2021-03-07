@@ -14,7 +14,7 @@
 
 Heroku provides 1 month of free dyno hours.So we dont recommend you to deploy it to Heroku as it can make your bot offline after 1 month.
 You can use our Discord Pinger which will ping your Project every 5 min.
-[Head over to #ping your project in Android Discord](https://discord.gg/mspMU79cGa)
+[Head over to #ping your project in Musico | Development](https://https://discord.gg/U3h8VFut)
 
 ```
 git clone https://github.com/gtagamermods/admusicbot.git
